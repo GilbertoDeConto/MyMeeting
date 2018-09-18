@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Meeting</string>
+    <string name="title_activity_nova_reuniao">NovaReuniaoActivity</string>
+    <string name="titulo">Título</string>
+    <string name="assunto">Assunto</string>
+    <string name="objetivo">Objetivo</string>
+    <string name="salvar">Salvar</string>
+
+    <string name="baixa">Baixa</string>
+    <string name="media">Média</string>
+    <string name="alta">Alta</string>
+    <string name="prioridade">Prioridade: </string>
+    <string name="tempo">Tempo para discussão</string>
+    <string name="topico">Tópico</string>
+
+    <string name="nova_reuniao">Nova Reunião</string>
+    <string name="novo_topico">Novo Topico</string>
+</resources>
